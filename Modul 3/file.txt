@@ -1,0 +1,8 @@
+Program example33;
+Begin
+	Begin
+		200 + 10;
+		4 - 9
+	End;
+	 30* 45
+end.

@@ -1,0 +1,5 @@
+Program example42;
+Begin
+(4+2);
+10 * 32
+End.

@@ -1,0 +1,12 @@
+program example71;
+var i,j,k,n;
+function fact(n);
+var m;
+begin
+m:=1
+end;
+begin
+i := 20;
+j := 40;
+k := (30 + i) * (80 -j div 4)
+end.
